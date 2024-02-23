@@ -5,8 +5,8 @@ Este e um Projeto basico de de um pokedex usando HTML, CSS e JavaScript
 - HTML
 - CSS
 - JavaScipt
-- - API pokedex
-  - 
+- API pokedex
+
 - # Como Usar
 Basta executar o arquivo index.html usando o live serve ou um do seu gosto
 
